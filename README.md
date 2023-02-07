@@ -1,8 +1,8 @@
 # Resume Builder 📄
 
-### Use professional field-tested resume templates that follow the exact ‘resume rules’ employers look for. Easy to use and done within minutes.
+### By using our templates you can create well formatted resume.
 
-### Technologies that are used in this project.
+### Technologies used in this project.
 
   <ul>
     <li>React</li> 
